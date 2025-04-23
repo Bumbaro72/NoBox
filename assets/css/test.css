@@ -1,0 +1,54 @@
+body {
+      margin: 0;
+      font-family: Antonio, sans-serif;
+      background: white;
+      color: black;
+    }
+    section {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      padding: 2rem;
+      text-align: center;
+      scroll-snap-align: start;
+    }
+    .hero {
+      background: black;
+      color: white;
+    }
+    .gray {
+      background: #f0f0f0;
+    }
+    .black {
+      background: black;
+      color: white;
+    }
+    .white-space {
+      height: 5vh;
+      background: white;
+    }
+    .subtle {
+      font-size: 0.85rem;
+      opacity: 0.6;
+      margin-top: 1rem;
+    }
+    .naslov {
+      font-size: 10.4rem;
+      font-weight: 600;
+      font-style: normal;
+      opacity: 0.6;
+      margin-top: -39rem;
+      margin-left: -28rem;
+      position: absolute;
+      /*! justify-content: left; */
+      /*! display: grid; */
+      text-align: left;
+    }
+    .slika {
+        scale: 64%;
+        margin-bottom: 1rem;
+        margin-top: -35.5rem;
+        position: absolute;
+        margin-left: -25.5rem;
+      }
