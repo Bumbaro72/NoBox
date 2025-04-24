@@ -13,14 +13,33 @@
     .mega8 { font-size: 14rem; font-weight: 100;  margin-bottom: -48rem; letter-spacing: 0.05em; position: absolute;text-align: left;opacity: 20%;margin-left: -45rem;}
     .mega9 { font-size: 14rem; font-weight: 100;  margin-bottom: 43rem; letter-spacing: 0.05em; position: absolute;text-align: left;opacity: 20%;margin-left: -23rem;}
     .mega10 { font-size: 14rem; font-weight: 100;  margin-bottom: -47rem; letter-spacing: 0.05em; position: absolute;text-align: left;opacity: 20%;margin-left: -41rem;}
-    .naslov { font-size: 2rem; margin-bottom: 1rem; }
+    .naslov { font-size: 2rem; margin-bottom: 1rem; text-align: center;line-height: 3rem;margin-top: 0;}
+    .naslov-hero { font-size: 2rem; margin-bottom: 1rem; text-align: center;line-height: 3rem;margin-top: -2rem;}
     .tekst { font-size: 1rem; max-width: 700px; text-align: center; line-height: 1.5; }
     .mala { font-size: 0.9rem; opacity: 0.6; margin-top: 1rem; }
 
     .slika {
-        scale: 70%;
+        scale: 44%;
         margin-bottom: 1rem;
         margin-top: 0;
         position: absolute;
         margin-left: -1rem;
       }
+
+      /* Optional: Add some basic styling for your hero section */
+      .hero {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #ffffff00;
+    }
+    
+    /* Make the SVG responsive */
+    .logo-container {
+        width: 80%;
+        max-width: 600px;
+        position: absolute;
+        margin-bottom: 15rem;
+        scale: 111%;
+    }
