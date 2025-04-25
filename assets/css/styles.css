@@ -12,7 +12,7 @@ section { width: 100vw; height: 100vh; display: flex; flex-direction: column; ju
 .mega7 { font-size: 15.7rem; font-weight: 600;  margin-top: -34rem; letter-spacing: -0.05em; position: absolute;text-align: left;opacity: 80%;margin-left: -44rem;}
 .mega8 { font-size: 15.7rem; font-weight: 100;  margin-bottom: -40rem; letter-spacing: -0.05em; position: absolute;text-align: left;opacity: 15%;margin-left: -40rem;}
 .mega9 { font-size: 5.7rem; font-weight: 100;  margin-top: -34rem; letter-spacing: -0.05em; position: absolute;text-align: left;opacity: 10%;margin-left: -47rem;line-height: 5rem;}
-.mega10 { font-size: 7.7rem; font-weight: 600;  margin-bottom: -23rem; letter-spacing: -0.05em; position: absolute;text-align: left;opacity: 60%;margin-left: -31rem;line-height: 7.7rem;}
+.mega10 { font-size: 7.7rem; font-weight: 600;  margin-bottom: -23rem; letter-spacing: -0.05em; position: absolute;text-align: left;opacity: 30%;margin-left: -31rem;line-height: 7.7rem;}
 .mega11 { font-size: 1.7rem; font-weight: 300;  margin-bottom: -47rem; letter-spacing: -0.05em; position: absolute;text-align: left;opacity: 90%;margin-left: -79rem;}
 .naslov1 { font-size: 7.5rem; margin-bottom: 1rem; text-align: center;line-height: 3rem;margin-top: -12rem;position: absolute;margin-right: -53rem;font-weight: 600;}
 .naslov2 { font-size: 1.2rem; margin-bottom: 0.867rem; text-align: center;line-height: 3rem;margin-top: -5rem;margin-right: -52.5rem;position: absolute;opacity: 30%;}
@@ -24,7 +24,7 @@ section { width: 100vw; height: 100vh; display: flex; flex-direction: column; ju
 .tekst4 { font-size: 1rem; max-width: 700px; text-align: left; line-height: 1.5; margin-left: -57rem;margin-top: 10rem;}
 .tekst5 { font-size: 1rem; max-width: 700px; text-align: left; line-height: 1.5; margin-left: -43.5rem;margin-top: -10rem;}
 .mala1 { font-size: 0.9rem; opacity: 0.6; margin-top: 8rem; margin-left: -61rem;}
-.mala2 { font-size: 0.9rem; opacity: 0.6; margin-top: 8rem; margin-left: -65rem;}
+.mala2 { font-size: 0.9rem; opacity: 0.6; margin-top: 8rem; margin-left: -72rem;}
 .mala3 { font-size: 0.9rem; opacity: 0.6; margin-top: 8rem; margin-left: -61rem;}
 .mala4 { font-size: 0.9rem; opacity: 0.6; margin-top: 6rem; margin-left: -52rem;}
 .mala5 { font-size: 0.9rem; opacity: 0.6; margin-top: 1rem; margin-left: -62rem;}
