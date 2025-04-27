@@ -28,7 +28,7 @@ section { width: 100vw; height: 100vh; display: flex; flex-direction: column; ju
 .mala3 { font-size: 0.9rem; opacity: 0.6; margin-top: 8rem; margin-left: -61rem;}
 .mala4 { font-size: 0.9rem; opacity: 0.6; margin-top: 6rem; margin-left: -52rem;}
 .mala5 { font-size: 0.9rem; opacity: 0.6; margin-top: 1rem; margin-left: -62rem;}
-.slika-hero {scale: 48%;margin-bottom: 4rem;margin-top: 2px;position: absolute;margin-left: -0.5rem;opacity: 60%;}
+.slika-hero {scale: 58%;margin-bottom: 4rem;margin-top: 2px;position: absolute;margin-left: -0.5rem;opacity: 70%;}
 .slika-mala {/*! scale: 48%; */margin-bottom: 4rem;margin-top: -150px;position: absolute;margin-right: -52.5rem;opacity: 60%;max-width: 39%;}
 .hero {display: flex;justify-content: center;align-items: center;height: 100vh;background-color: #ffffff00;}
 .white-space { height: 5vh; background: white;}
