@@ -59,6 +59,7 @@ section.sekcija {
 
 .mala-slova-linkovi {
   margin-top: 30px;
+  background: #dfe3b0;
 }
 
 .mala-slova-linkovi a {
@@ -77,6 +78,7 @@ section.sekcija {
   margin-top: 20px;
   font-size: 0.9rem;
   opacity: 0.8;
+  background: #b9a8f4;
 }
 
 /* Animacije kad sekcija uđe u vidno polje */
