@@ -188,7 +188,7 @@ section {
   /*! align-items: inherit; */
   position: absolute;
   left: 46.5vw;
-  transform: translateY(727%);
+  transform: translateY(873%);
   z-index: 1;
   /*! padding-right: 2vw; */
   color: #cccccc;
@@ -205,8 +205,8 @@ section {
   justify-content: left;
   align-items: last baseline;
   position: absolute;
-  left: 0.5vw;
-  transform: translateY(735%);
+  left: 3.1vw;
+  transform: translateY(846%);
   z-index: 1;
   color: #141414;
 }
@@ -236,14 +236,14 @@ section {
 .svg-animacija-d {
   width: 90%;
   max-width: 50vw;
-  height: 15.5vw;
+  height: 17vw;
   /*! background-color: #10935445; */ /* Žućkasta */
   /*! margin: 6vw 0; */
   display: inline-flex;
   /*! justify-content: center; */
   /*! align-items: center; */
   position: absolute;
-  left: 0.5vw;
+  left: 3.7vw;
   transform: translateY(11%);
   z-index: 1;
   color: #141414;
@@ -253,14 +253,14 @@ section {
 .svg-animacija-l {
   width: 90%;
   max-width: 49vw;
-  height: 15vw;
+  height: 17vw;
   /*! background-color: #87deb45e; */ /* Žućkasta */
   margin: 6vw 0;
   display: inline-flex;
   justify-content: right;
   /*! align-items: revert; */
   position: absolute;
-  left: 46.5vw;
+  left: 46.3vw;
   transform: translateY(11%);
   z-index: 1;
   color: #141414;
@@ -269,9 +269,9 @@ section {
 }
 
 .svg-back {
-  width: 100%;
-  /*! max-width: 23vw; */
-  height: 80vh;
+  width: 100vw;
+  /*! max-width: 99vw; */
+  /*! height: 100vh; */
   /*! background-color: #87deb4; */ /* Žućkasta */
   /*! margin: 6vw 0; */
   /*! display: inline-flex; */
@@ -279,9 +279,9 @@ section {
   /*! align-items: center; */
   position: absolute;
   /*! left: 1vw; */
-  transform: translateY(-3%);
+  /*! transform: translateY(-10%); */
   z-index: 0;
-  /*! scale: 100%; */
+  /*! scale: 116%; */
 }
 
 /* Linkovi u liniji */
@@ -313,4 +313,4 @@ section {
   font-size: 1.2vw;
 }
 
-.white-space { height: 5vh; background: white;}
+.white-space { height: 5vh; background: white;z-index: 2;position: relative;}
